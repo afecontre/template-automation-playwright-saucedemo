@@ -125,22 +125,7 @@ Andrés Felipe Contreras Muñoz
 QA Automation Engineer
 GitHub: https://github.com/afecontre
 
-yaml
-Copy code
 
----
-
-Si quieres, el siguiente paso puede ser:
-
-- Dejar este repo en GitHub como **Template Repository**
-- Clonar la misma idea para **Cypress** y **Serenity** (misma estructura mental)
-- O crear un script/generador para que, con un comando, se cree:
-  - nuevo PageObject  
-  - nuevo spec  
-  - esqueleto de test  
-
-Tú me dices qué quieres atacar ahora y le damos. 💪
-::contentReference[oaicite:0]{index=0}
 
 
 
